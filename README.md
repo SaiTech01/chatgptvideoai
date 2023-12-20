@@ -60,9 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - ReactJS
 - FFMPEG
 - Remotion
-
-## Hire me
-**Want to hire me on your upcoming or ongoing flutter project? 
-Contact me**
-
-<p><a href="https://www.linkedin.com/in/balaji-kannan-ab8580207/" target="_blank"><img alt="" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height:50px; width:50px" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.fiverr.com/balajikannan03" target="_blank"><img alt="" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png" style="height:50px; width:89px" /></a>&nbsp; &nbsp; &nbsp;<a href="http://wa.me/919444036945" target="_blank"><img alt="" src="https://cdn-icons-png.flaticon.com/512/124/124034.png" style="height:50px; width:50px" /></a></p>
